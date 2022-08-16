@@ -6,4 +6,4 @@ I used two arduino nano and two NRF24 module inserted in both airplane and remot
 
 ### Controller
 
-![Controller](C:\Users\umut\Documents\Uçak\yeni_ucak_album)
+![Controller](1616693168539.jpeg)

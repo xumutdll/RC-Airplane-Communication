@@ -4,6 +4,6 @@ Receiver and transmitter codes for a RC airplane.
 
 I used two arduino nano and two NRF24 module inserted in both airplane and remote controller. It [worked](https://youtu.be/BTtzqg-JXrY) pretty well.
 
-### Controller communication with an inserted Arduino Nano
+#### Controller communication tests with an inserted Arduino Nano
 
 ![Controller](Controller.jpeg)
